@@ -1,0 +1,5 @@
+DFA
+
+Usage: [n] [Binary-String] [Outputfilename]
+
+The DFA accepts the [binary-string] if it can be divided by [n].
